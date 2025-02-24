@@ -92,5 +92,3 @@ This project is open-source and released under the MIT License.
 ## Author
 
 **Aryan Namdev**
-
-
