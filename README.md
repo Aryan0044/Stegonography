@@ -1,4 +1,4 @@
-# SECURE DATA CONCEALMENT IN IMAGES USING STEGANOGRAPHY
+# SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY
 
 This project offers a straightforward implementation of **image-based steganography**, allowing users to embed secret messages within an image and later retrieve them using a decryption script. The encryption and decryption processes modify the pixel values of an image to encode message bytes securely.
 
